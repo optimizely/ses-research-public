@@ -1,0 +1,271 @@
+experiment_name,variation_id,variation_name,reference_variation_id,interval_timestamp,unit_count,unit_observation_sum,unit_observation_sum_of_squares,experiment_id,metric_name
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:21:00,65,38.032521163000006,169.87648210785642,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:21:00,75,106.2864730711,652.8678222175807,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:21:00,55,32.482248229199996,185.2438733672839,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:22:00,185,309.1688314789999,2200.8462406775175,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:22:00,194,141.67744846390002,779.610508913941,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:22:00,211,179.47542524949998,1052.4799043587673,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:23:00,206,159.09233862515,713.4539750761344,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:23:00,191,307.9701829531001,2040.2292972041691,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:23:00,193,202.110247064809,1037.4719576079133,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:24:00,183,136.66647403559998,776.0354264798683,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:24:00,189,184.80690329679996,1010.3296324317744,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:24:00,219,339.97761041393,2276.0872608220193,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:25:00,170,135.07459002860003,724.3329768891793,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:25:00,210,161.67330748309996,890.1252212246098,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:25:00,211,307.57917035480006,2067.8448627503753,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:26:00,194,262.5090331712999,1733.555147594389,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:26:00,201,151.06502976139998,729.5062677101721,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:26:00,196,156.03914725760004,800.9652827786933,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:27:00,195,195.7462568537,1280.5260501836565,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:27:00,193,118.5873125903,649.0323887719221,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:27:00,203,135.96606193483998,677.3318824922752,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:28:00,184,116.53451713897002,624.4993369840818,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:28:00,192,244.47620593219995,1596.322470719835,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:28:00,216,172.82817405712998,914.5191972346693,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:29:00,208,172.6918106975,935.7514572917586,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:29:00,184,278.6070630849301,1846.825488426803,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:29:00,200,152.34091674809997,828.2665264810157,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:30:00,190,120.99844695290001,642.3958402167257,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:30:00,186,223.47586698881005,1582.6093034787973,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:30:00,217,163.97621139790004,786.0454897897137,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:31:00,204,283.64250696049993,1741.2064521031805,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:31:00,185,142.0976467249,749.6830258522091,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:31:00,203,114.402590299,523.1149308176496,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:32:00,200,249.4332465673,1616.4817950795266,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:32:00,190,163.57096735460001,951.0135667796328,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:32:00,203,151.78038826937,879.3685662089197,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:33:00,187,123.2651047842,669.3798545712804,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:33:00,208,176.01183014339998,897.9592795037656,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:33:00,198,314.4968192544001,2074.3933251351814,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:34:00,196,279.9010716958,1918.2121711097948,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:34:00,198,194.84230517250003,1063.2073285162837,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:34:00,198,152.53025679432997,800.6779898924356,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:35:00,195,185.4827749346,1063.7065196363217,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:35:00,215,166.04949723969997,878.9561200781104,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:35:00,183,254.88077133760004,1790.406181649253,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:36:00,187,228.98513294842007,1322.940610946544,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:36:00,197,174.55715680990002,1005.2997916149709,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:36:00,209,168.94119456619998,942.2217697912931,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:37:00,199,165.05161732002003,865.5333150936826,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:37:00,204,186.90240588300003,949.771604659173,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:37:00,190,242.10965219053,1530.058562603957,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:38:00,114,187.98695620389998,1229.0743209735328,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:38:00,104,87.70529544499999,452.89234499399817,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:38:00,117,90.717956875,463.7412775312282,18786493712,Total customer support minutes per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:21:00,65,339996.0,29199320004.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:21:00,55,259997.0,22799480003.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:21:00,75,559994.0,52798880006.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:22:00,194,1079988.0,98397840012.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:22:00,185,739992.0,69198520008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:22:00,211,1539983.0,141196920017.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:23:00,206,1599982.0,143996800018.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:23:00,191,1159987.0,104797680013.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:23:00,193,939989.0,81198120011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:24:00,219,559994.0,52798880006.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:24:00,189,1439984.0,131197120016.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:24:00,183,759991.0,64798480009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:25:00,210,839991.0,79198320009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:25:00,211,899990.0,81998200010.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:25:00,170,1819980.0,167596360020.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:26:00,194,759991.0,64798480009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:26:00,196,999988.0,83998000012.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:26:00,201,1099988.0,101997800012.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:27:00,203,979989.0,88398040011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:27:00,193,699992.0,61998600008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:27:00,195,559994.0,52798880006.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:28:00,216,759991.0,64798480009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:28:00,184,1179987.0,108397640013.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:28:00,192,1079988.0,98397840012.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:29:00,184,719992.0,65598560008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:29:00,208,1339985.0,121197320015.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:29:00,200,699992.0,61998600008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:30:00,217,959989.0,84798080011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:30:00,186,1239986.0,111197520014.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:30:00,190,279997.0,26399440003.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:31:00,203,959989.0,84798080011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:31:00,185,819991.0,75598360009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:31:00,204,759991.0,64798480009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:32:00,203,1199987.0,111997600013.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:32:00,200,879990.0,78398240010.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:32:00,190,879990.0,78398240010.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:33:00,198,619993.0,55598760007.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:33:00,187,1059988.0,94797880012.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:33:00,208,999989.0,91998000011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:34:00,198,1419984.0,127597160016.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:34:00,198,499994.0,41999000006.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:34:00,196,1179987.0,108397640013.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:35:00,195,959989.0,84798080011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:35:00,183,919990.0,85598160010.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:35:00,215,1579982.0,140396840018.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:36:00,187,399995.0,31999200005.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:36:00,209,1119987.0,97597760013.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:36:00,197,699992.0,61998600008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:37:00,199,759992.0,72798480008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:37:00,190,959989.0,84798080011.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:37:00,204,779991.0,68398440009.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:38:00,104,739992.0,69198520008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:38:00,114,499994.0,41999000006.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:38:00,117,759992.0,72798480008.0,18786493712,Electronics revenue per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:21:00,65,65.0,187.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:21:00,75,45.0,123.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:21:00,55,45.0,129.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:22:00,211,172.0,482.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:22:00,185,100.0,284.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:22:00,194,171.0,489.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:23:00,206,150.0,414.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:23:00,191,107.0,295.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:23:00,193,172.0,494.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:24:00,219,102.0,294.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:24:00,189,203.0,577.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:24:00,183,150.0,432.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:25:00,211,107.0,301.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:25:00,210,147.0,423.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:25:00,170,166.0,458.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:26:00,201,177.0,507.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:26:00,194,87.0,243.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:26:00,196,141.0,399.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:27:00,203,169.0,485.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:27:00,193,112.0,320.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:27:00,195,102.0,294.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:28:00,216,150.0,432.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:28:00,192,99.0,273.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:28:00,184,152.0,430.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:29:00,208,183.0,519.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:29:00,184,100.0,284.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:29:00,200,154.0,446.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:30:00,186,115.0,317.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:30:00,190,129.0,381.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:30:00,217,187.0,539.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:31:00,204,132.0,378.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:31:00,203,124.0,350.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:31:00,185,141.0,405.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:32:00,203,143.0,403.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:32:00,190,134.0,382.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:32:00,200,116.0,328.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:33:00,187,171.0,489.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:33:00,198,95.0,271.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:33:00,208,151.0,431.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:34:00,198,171.0,501.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:34:00,196,116.0,322.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:34:00,198,185.0,523.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:35:00,183,107.0,301.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:35:00,215,171.0,477.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:35:00,195,142.0,404.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:36:00,187,88.0,254.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:36:00,197,139.0,401.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:36:00,209,167.0,475.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:37:00,199,130.0,374.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:37:00,204,186.0,540.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:37:00,190,106.0,296.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:38:00,117,73.0,203.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:38:00,104,91.0,257.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:38:00,114,75.0,213.0,18786493712,Product detail page views per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:21:00,65,11.0,11.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:21:00,55,8.0,8.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:21:00,75,26.0,26.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:22:00,185,57.0,57.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:22:00,194,35.0,35.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:22:00,211,40.0,40.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:23:00,193,52.0,52.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:23:00,191,61.0,61.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:23:00,206,48.0,48.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:24:00,183,30.0,30.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:24:00,189,42.0,42.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:24:00,219,67.0,67.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:25:00,170,32.0,32.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:25:00,211,62.0,62.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:25:00,210,38.0,38.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:26:00,196,41.0,41.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:26:00,201,42.0,42.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:26:00,194,54.0,54.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:27:00,193,31.0,31.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:27:00,203,39.0,39.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:27:00,195,41.0,41.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:28:00,184,30.0,30.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:28:00,216,46.0,46.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:28:00,192,53.0,53.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:29:00,184,58.0,58.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:29:00,208,41.0,41.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:29:00,200,36.0,36.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:30:00,217,51.0,51.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:30:00,190,31.0,31.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:30:00,186,43.0,43.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:31:00,203,35.0,35.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:31:00,185,34.0,34.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:31:00,204,63.0,63.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:32:00,200,54.0,54.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:32:00,203,34.0,34.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:32:00,190,37.0,37.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:33:00,208,46.0,46.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:33:00,198,63.0,63.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:33:00,187,30.0,30.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:34:00,196,57.0,57.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:34:00,198,38.0,38.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:34:00,198,44.0,44.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:35:00,183,49.0,49.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:35:00,195,39.0,39.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:35:00,215,39.0,39.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:36:00,187,58.0,58.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:36:00,209,42.0,42.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:36:00,197,40.0,40.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:37:00,199,40.0,40.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:37:00,190,55.0,55.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:37:00,204,49.0,49.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:38:00,117,25.0,25.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:38:00,114,36.0,36.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:38:00,104,25.0,25.0,18786493712,Customer support calls per visitor
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:21:00,65,4.0,4.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:21:00,55,3.0,3.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:21:00,75,6.0,6.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:22:00,211,17.0,17.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:22:00,194,12.0,12.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:22:00,185,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:23:00,206,18.0,18.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:23:00,193,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:23:00,191,13.0,13.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:24:00,183,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:24:00,219,6.0,6.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:24:00,189,16.0,16.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:25:00,211,10.0,10.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:25:00,210,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:25:00,170,20.0,20.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:26:00,201,12.0,12.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:26:00,196,12.0,12.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:26:00,194,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:27:00,203,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:27:00,193,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:27:00,195,6.0,6.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:28:00,192,12.0,12.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:28:00,184,13.0,13.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:28:00,216,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:29:00,208,15.0,15.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:29:00,184,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:29:00,200,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:30:00,190,3.0,3.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:30:00,217,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:30:00,186,14.0,14.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:31:00,185,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:31:00,203,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:31:00,204,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:32:00,200,10.0,10.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:32:00,190,10.0,10.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:32:00,203,13.0,13.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:33:00,187,12.0,12.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:33:00,208,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:33:00,198,7.0,7.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:34:00,198,6.0,6.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:34:00,198,16.0,16.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:34:00,196,13.0,13.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:35:00,195,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:35:00,183,10.0,10.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:35:00,215,18.0,18.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:36:00,197,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:36:00,187,5.0,5.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:36:00,209,13.0,13.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:37:00,190,11.0,11.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:37:00,199,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:37:00,204,9.0,9.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18818611832,message_1,18802093142,2020-09-14 11:38:00,117,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18817551468,message_2,18802093142,2020-09-14 11:38:00,104,8.0,8.0,18786493712,Purchase conversion rate
+covid_messaging_experiment,18802093142,control,18802093142,2020-09-14 11:38:00,114,6.0,6.0,18786493712,Purchase conversion rate

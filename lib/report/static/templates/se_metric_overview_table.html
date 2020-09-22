@@ -1,0 +1,42 @@
+{% extends "base_template.html" %}
+{% block content %}
+{% for metric_name, metric_details in metric_overview_table.items() %}
+<div class="push-quad--bottom">
+  <h2>Metric: <code>{{ metric_name }}</code></h2>
+  <table class="oui-table oui-table--tight" style="table-layout: fixed;">
+    <thead>
+      <tr>
+        {% for thead in metric_details[0].keys() if thead != "Highlight" %}
+        <th>
+          <span class="milli weight--bold" style="text-transform: capitalize">{{ thead }}</span>
+        </th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for variation_props in metric_details %}
+      {% set highlight_improvement = variation_props["Highlight"] %}
+      {% if highlight_improvement == "Positive" %}
+      {% set highlight_color = "color--good-news" %}
+      {% elif highlight_improvement == "Negative" %}
+      {% set highlight_color = "color--bad-news" %}
+      {% elif highlight_improvement == "Neutral" %}
+      {% set highlight_color = "muted" %}
+      {% endif %}
+      <tr>
+        {% for column, value in variation_props.items() if column != "Highlight" %}
+        <td class="zeta">
+          {% if column in ["Improvement", "Confidence Interval", "P-Value", "Statistical Significance"] %}
+          <span class="weight--bold {{ highlight_color }}">{{ value }}</span>
+          {% else %}
+          <span>{{ value }}</span>
+          {% endif %}
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endfor %}
+{% endblock %}

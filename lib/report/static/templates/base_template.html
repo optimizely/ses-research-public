@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>
+    {% block title %}
+    {% endblock %}
+  </title>
+  <style type="text/css">{{ css }}</style>
+  <script></script>
+</head>
+<body>
+<div>
+  <div class="report_title_section">
+    <h1>
+      {% block header %}
+      {% endblock %}
+    </h1>
+    <div class="report_content">
+      {% block content %}
+      {% endblock %}
+    </div>
+    <div class="zeta">
+      {% block footer %}
+      {% endblock %}
+    </div>
+  </div>
+</div>
+</body>
+</html>

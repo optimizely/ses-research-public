@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ header }}</title>
+  {% block header %}
+  {{ js_plot }}
+  {% endblock %}
+</head>
+<body>
+{% block content %}
+<div class="push-quad--ends">
+  <div class="flex flex-align--center nowrap">
+    <img class="min-width--150 push--right" src="https://app.optimizely.com/static/img/rebrand/logo.svg" alt="Optimizely" height="50px" width="180px"/>
+    <span class="alpha weight--bold color--light-blue-100 push-half--top">Data Lab</span>
+  </div>
+  <h2 class="push-double--top">
+    Experiment Report: <code>{{ experiment_name }}</code>
+  </h2>
+</div>
+{% endblock %}
+</body>
+</html>
