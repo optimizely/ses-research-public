@@ -40,7 +40,7 @@ def render_se_metric_overview_table(
     observations_timeseries: pd.DataFrame,
     reference_variation_id,
     metric_name,
-    variation_names,
+    variation_names = None,
     template: str = "se_metric_overview_table.html",
 ) -> str:
     """Returns an HTML string describing an experiment's metric statistics computed by Optimizely's Stats Engine.
