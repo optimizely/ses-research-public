@@ -190,7 +190,7 @@ def compute_se_metric_overview_table(
     observations_timeseries: pd.DataFrame,
     statistics: pd.DataFrame,
     reference_variation_id: Union[int, str],
-    variation_names: Dict[Union[int, str], str],
+    variation_names: Dict[Union[int, str], str] = None,
 ) -> dict:
     """Computes a dictionary that contains summary table of experiment results per metric.
 
@@ -226,10 +226,10 @@ def compute_se_metric_overview_table(
 
     """
     reference_variation = reference_variation_id
+    variations = statistics.variation_id.unique()
     treatment_variations = [
-        v for v in variation_names.keys() if v != reference_variation_id
+        v for v in variations if v != reference_variation_id
     ]
-    variations = [reference_variation_id] + treatment_variations
 
     observations_timeseries = observations_timeseries.reset_index().set_index(
         [Constants.VARIATION_ID, Constants.TIMESTAMP]
@@ -326,9 +326,10 @@ def compute_se_metric_overview_table(
     ].apply(fmt_stat_sig)
 
     # Replace variation labels if possible
-    df[Constants.VARIATION_ID] = df[Constants.VARIATION_ID].map(
-        lambda v: variation_names[v]
-    )
+    if variation_names is not None:
+        df[Constants.VARIATION_ID] = df[Constants.VARIATION_ID].map(
+            lambda v: variation_names[v]
+        )
 
     # Remove 2 columns of Rejected and Lower_Is_Better
     df = df.drop(
