@@ -9,6 +9,6 @@ This directory contains a demo of Optimizely's upcoming Stats Engine Service:
 
 ## Running this notebook
 
-This notebook was designed to run using [Google Colab](https://colab.research.google.com/).  You can access a public version of this notebook [here](https://colab.research.google.com/drive/1_DTLCj5IeVyA2RLzlmFxYehgpfxpuF3x?usp=sharing).
+This notebook was designed to run using [Google Colab](https://colab.research.google.com/).  You can access a public version of this notebook [here](https://colab.research.google.com/github/optimizely/ses-research-public/blob/master/ses_demo_simple.ipynb).
 
 If you have [Jupyter](https://jupyter.org/) or [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) installed, you should be able to run this notebook locally on a Mac or Unix-compatible system.
